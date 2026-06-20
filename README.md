@@ -83,4 +83,4 @@ Program akan meminta path ke `daftar_png.txt` yang dihasilkan pada langkah penyi
 
 ## Author
 
-Dikembangkan untuk Tugas Makalah II4021 Kriptografi, Program Studi Sistem dan Teknologi Informasi, Institut Teknologi Bandung — Semester II Tahun 2025/2026.
+Dikembangkan untuk Tugas Makalah II4021 Kriptografi, Program Studi Sistem dan Teknologi Informasi, Institut Teknologi Bandung
